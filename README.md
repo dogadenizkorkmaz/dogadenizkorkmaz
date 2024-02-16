@@ -1,4 +1,5 @@
-![](https://giphy.com/gifs/JIX9t2j0ZTN9S)
+## Hi There, I'm Doga!
+
 - 🚀 Junior Full Stack Developer
 - 🔭 I’m currently working Patika+
 - 🌱 I’m currently learning Java
