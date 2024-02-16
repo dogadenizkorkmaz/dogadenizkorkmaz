@@ -1,5 +1,4 @@
-<img align="right" alt="GIF" src="[https://giphy.com/gifs/JIX9t2j0ZTN9S]" width="500" height="320" />
-
+![](https://giphy.com/gifs/JIX9t2j0ZTN9S)
 - 🚀 Junior Full Stack Developer
 - 🔭 I’m currently working Patika+
 - 🌱 I’m currently learning Java
